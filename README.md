@@ -14,22 +14,22 @@ Add your Name and Reference Number using heading tag
 Execute the program
 
 # CODE
-~~~<!DOCTYPE html>
+~~~
+<!DOCTYPE html>
+
 <html>
 
 <body>
-<h1>Name: Karthi Govindharaju</h1>
-<h3>Designation: Assistant Professor (SG) /h3>
-<h5>Dept.:Artificial Intelligence and Data Science</h5>
+
+<h1>Name: v.CHARAN SAI</h1>
+
+<h3>Designation: B-tech 1st year /h3>
+
+<h5>Dept.:Artificial Intelligence and Mechine learning</h5>
+
 </body>
 
 </html>
 ~~~
-# OUPUT
-<html>
-<body>
-<h1>Name: Karthi Govindharaju</h1>
-<h3>Designation: Assistant Professor (SG)</h3>
-<h5>Dept.:Artificial Intelligence and Data Science</h5>
-</body>
-</html>
+## OUTPUT
+![OUPTUP](https://github.com/charansai0/Experiment_Basic_HTML_Tag/blob/main/Screenshot%20(181).png?raw=true)
